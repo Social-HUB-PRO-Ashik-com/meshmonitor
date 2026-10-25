@@ -137,7 +137,7 @@
     "@typescript-eslint/parser": "^8.70.0",
     "@vitejs/plugin-react": "^6.1.1",
     "@vitest/coverage-v8": "^5.0.0",
-    "@vitest/ui": "^5.0.0",
+    "@vitest/ui": "^5.0.5",
     "concurrently": "^10.0.5",
     "drizzle-kit": "^0.31.10",
     "es-module-lexer": "3.0.2",
